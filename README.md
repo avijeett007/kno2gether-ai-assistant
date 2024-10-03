@@ -64,7 +64,7 @@ Modify the `config.js` file to adjust settings such as:
 
 For a detailed explanation of how this project works, check out our YouTube video:
 
-[![Kno2gether AI Assistant Code Walkthrough](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUR_VIDEO_ID "Kno2gether AI Assistant Code Walkthrough")
+[![Kno2gether AI Assistant Code Walkthrough](http://img.youtube.com/vi/Iv1aP06FhjM/0.jpg)](https://www.youtube.com/watch?v=Iv1aP06FhjM "Kno2gether AI Assistant Code Walkthrough")
 
 In this video, Avijit from Kno2gether walks through the code, explaining the integration of Twilio, OpenAI, and the overall architecture of the AI assistant.
 
